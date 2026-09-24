@@ -1,0 +1,15 @@
+# Зависимости (восстанавливаются через npm install / pip install)
+node_modules/
+
+# Сборки (генерируются билд-инструментами)
+dist/
+build/
+
+# Логи и временные файлы
+*.log
+*.local
+
+# IDE и системные файлы
+.idea/
+.DS_Store
+Thumbs.db
